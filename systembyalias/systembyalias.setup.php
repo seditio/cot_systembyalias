@@ -10,10 +10,10 @@
  * Author=Andrey Matsovkin / Dmitri Beliavski
  * Copyright=&copy; 2016-2023 Cotonti Team
  * Notes=
- * Auth_guests=
- * Lock_guests=12345RWA
- * Auth_members=
- * Lock_members=12345RWA
+ * Auth_guests=R
+ * Lock_guests=12345WA
+ * Auth_members=R
+ * Lock_members=12345WA
 [END_COT_EXT]
 
 [BEGIN_COT_EXT_CONFIG]
